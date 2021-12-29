@@ -1,5 +1,5 @@
 
-# Finger Counter
+# Virtual Painter
 
 It is a fun virtual air painter.
 Paint whatever you love on the screen virtually.
