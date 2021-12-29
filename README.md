@@ -31,7 +31,7 @@ Install dependencies
   pip install -r requirements.txt
 ```
 
-Start the server
+Run the Python file
 
 ```bash
   python VirtualPainter.py
